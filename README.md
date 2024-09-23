@@ -1,4 +1,4 @@
-## Hello there 👋
+## "Hello there" - Obi-Wan Kenobi
 
 - 🔭 I’m currently working on: "Chess Wizard" from The Thing (1982)
 - 🌱 I’m currently learning: Python and SQL via Boot.dev
