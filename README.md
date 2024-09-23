@@ -1,7 +1,7 @@
 ## "Hello there" - Obi-Wan Kenobi
 
 - 🔭 I’m currently working on:
-    - "Chess Wizard" from The Thing (1982) in Python
+    - "Chess Wizard" from The Thing (1982) in Python (also wanted to learn Chess)
     - TBD
     - TBD
 - 🌱 I’m currently learning: Python and SQL via Boot.dev
