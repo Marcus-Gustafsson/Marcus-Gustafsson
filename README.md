@@ -1,10 +1,8 @@
 ## "Hello there" - Obi-Wan Kenobi
 
 - 🔭 I’m currently working on:
-    - "Chess Wizard" from The Thing (1982) in Python (also wanted to learn Chess)
     - TBD
-    - TBD
-- 🌱 I’m currently learning: Python and SQL via Boot.dev
+- 🌱 I’m currently learning: Python/ML via DataCamp (https://www.datacamp.com/)
 <!--
 **Marcus-Gustafsson/Marcus-Gustafsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 - 📫 How to reach me: 
