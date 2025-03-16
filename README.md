@@ -1,8 +1,8 @@
 ## "Hello there" - Obi-Wan Kenobi
 
 - 🔭 I’m currently working on:
-    - Auto file-sorter in Python
-- 🌱 I’m currently learning: Python/ML & Azure via DataCamp (https://www.datacamp.com/)
+    - PennyWise, a personal finance tracker written in Python.
+- 🌱 I’m currently learning: TBD.
 <!--
 **Marcus-Gustafsson/Marcus-Gustafsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 - 📫 How to reach me: 
