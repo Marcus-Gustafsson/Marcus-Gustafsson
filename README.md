@@ -24,7 +24,7 @@
 <p align="center">
   <!-- Store the GIF in your profile repo at assets/gymtracker.gif -->
   <a href="https://github.com/Marcus-Gustafsson/GymTracker">
-    <img src="assets/gymtracker.gif" alt="GymTracker demo" width="800">
+    <img src="assets/GymTracker.gif" alt="GymTracker demo" width="800">
   </a>
   <br/>
   <sub>Pose detection & rep counting demo.</sub>
