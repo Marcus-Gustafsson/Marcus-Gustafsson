@@ -27,25 +27,26 @@
     <img src="assets/GymTracker.gif" alt="GymTracker demo" width="800">
   </a>
   <br/>
-  <sub>Pose detection & rep counting demo.</sub>
+  <sub>GymTracker is a web-based application, developed as part of a university project, that uses pre-trained TensorFlow.js pose detection models to track your movements and help optimize your workouts.</sub>
 </p>
 
-### [PennyWise](https://github.com/Marcus-Gustafsson/PennyWise)
+### [NFB-Training](https://github.com/Marcus-Gustafsson/NFB-Training)
 <p align="center">
   <!-- Example placeholder; replace with your actual GIF path -->
-  <a href="https://github.com/Marcus-Gustafsson/PennyWise">
-    <img src="assets/pennywise.gif" alt="PennyWise demo" width="800">
+  <a href="https://github.com/Marcus-Gustafsson/NFB-Training">
+    <img src="assets/NFBTraining.gif" alt="NFB demo" width="800">
   </a>
   <br/>
-  <sub>Personal finance tracker dashboard.</sub>
+  <sub>This project is part of a degree project with a focus on neurofeedback training (NFB) for post-Concussion Syndrome (PCS) patients using the Muse 2 portable EEG headband.</sub>
 </p>
 
+<!-- 
 ### [WH40K Mechanicus TUI Agent](https://github.com/Marcus-Gustafsson/mechanicus-agent)
 <p align="center">
-  <!-- Example placeholder; replace with your actual GIF path -->
   <a href="https://github.com/Marcus-Gustafsson/mechanicus-agent">
     <img src="assets/mechanicus_tui.gif" alt="Mechanicus TUI demo" width="800">
   </a>
   <br/>
   <sub>LLM agent with Adeptus Mechanicus vibe.</sub>
 </p>
+-->
