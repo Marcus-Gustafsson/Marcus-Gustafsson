@@ -16,4 +16,36 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Marcus-Gustafsson&theme=dark&hide_border=false)<br/>
 
+---
 
+## 🎬 Project Demos
+
+### [GymTracker](https://github.com/Marcus-Gustafsson/GymTracker)
+<p align="center">
+  <!-- Store the GIF in your profile repo at assets/gymtracker.gif -->
+  <a href="https://github.com/Marcus-Gustafsson/GymTracker">
+    <img src="assets/gymtracker.gif" alt="GymTracker demo" width="800">
+  </a>
+  <br/>
+  <sub>Pose detection & rep counting demo.</sub>
+</p>
+
+### [PennyWise](https://github.com/Marcus-Gustafsson/PennyWise)
+<p align="center">
+  <!-- Example placeholder; replace with your actual GIF path -->
+  <a href="https://github.com/Marcus-Gustafsson/PennyWise">
+    <img src="assets/pennywise.gif" alt="PennyWise demo" width="800">
+  </a>
+  <br/>
+  <sub>Personal finance tracker dashboard.</sub>
+</p>
+
+### [WH40K Mechanicus TUI Agent](https://github.com/Marcus-Gustafsson/mechanicus-agent)
+<p align="center">
+  <!-- Example placeholder; replace with your actual GIF path -->
+  <a href="https://github.com/Marcus-Gustafsson/mechanicus-agent">
+    <img src="assets/mechanicus_tui.gif" alt="Mechanicus TUI demo" width="800">
+  </a>
+  <br/>
+  <sub>LLM agent with Adeptus Mechanicus vibe.</sub>
+</p>
