@@ -30,10 +30,9 @@
 
 </div>
 
----
 <div align="center">
     
-## 🎬 **Project Demos**
+# 🎬 **Project demos**
 
 </div>
 
