@@ -2,7 +2,6 @@
 
 - 👨‍💻 Currently building:
     - PennyWise – a personal finance tracker in Python.
-    - AI agent with WH40K styled mechanicus TUI
     - "Paddlingen"-website to handle booking & payment for a recurring yearly event, done together with https://github.com/matsnord94
 - 🌱 I’m currently learning:
     - Python/C/Go/SQL/Docker on Boot.dev
@@ -24,7 +23,7 @@
 <p align="center">
   <!-- Store the GIF in your profile repo at assets/gymtracker.gif -->
   <a href="https://github.com/Marcus-Gustafsson/GymTracker">
-    <img src="assets/GymTracker.gif" alt="GymTracker demo" width="800">
+    <img src="assets/GymTracker.gif" alt="GymTracker demo" width="900" height="350">
   </a>
   <br/>
   <sub>GymTracker is a web-based application, developed as part of a university project, that uses pre-trained TensorFlow.js pose detection models to track your movements and help optimize your workouts.</sub>
@@ -34,11 +33,22 @@
 <p align="center">
   <!-- Example placeholder; replace with your actual GIF path -->
   <a href="https://github.com/Marcus-Gustafsson/NFB-Training">
-    <img src="assets/NFBTraining.gif" alt="NFB demo" width="800">
+    <img src="assets/NFBTraining.gif" alt="NFB demo" width="900" height="350">
   </a>
   <br/>
   <sub>This project is part of a degree project with a focus on neurofeedback training (NFB) for post-Concussion Syndrome (PCS) patients using the Muse 2 portable EEG headband.</sub>
 </p>
+
+### [AutoSort](https://github.com/Marcus-Gustafsson/AutoSort)
+<p align="center">
+  <!-- Example placeholder; replace with your actual GIF path -->
+  <a href="https://github.com/Marcus-Gustafsson/AutoSort">
+    <img src="assets/Flow_chart_AutoSorter.gif" alt="NFB demo" width="900" height="350">
+  </a>
+  <br/>
+  <sub>Personal project</sub>
+</p>
+
 
 <!-- 
 ### [WH40K Mechanicus TUI Agent](https://github.com/Marcus-Gustafsson/mechanicus-agent)
