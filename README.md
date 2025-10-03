@@ -5,10 +5,11 @@
 </div>
 
 - 👨‍💻 Currently trying my patience and luck with:
-    - PennyWise – a personal finance tracker in Python.
+    - PennyWise – a personal finance/budget automation app that uses Python, Postgres/pgvector, a vector database with embeddings, and local LLM/Ollama (my poor laptop...).
     - "Paddlingen"-website to handle booking & payment for a recurring yearly event, done together with https://github.com/matsnord94
-- 🌱 I’m currently learning:
-    - Python/C/Go/SQL/Docker on Boot.dev
+- 🌱 I’m currently studying:
+    - AI/ML Engineer track on Datacamp
+    - Microsoft’s Azure Fundamentals certification (AZ-900)
 - 🔭 Upcoming project ideas:
     - Chrome extension to right-click download reels/memes from Facebook/Instagram (JavaScript/TypeScript)
     - Windows app/widget for blood sugar tracking & insulin titration using Dexcom Clarity or xDrip+ (Python + pydexcom)
