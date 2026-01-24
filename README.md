@@ -23,15 +23,6 @@
 </div>
 
 <div align="center">
-
-# 📊 GitHub Stats:
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=Marcus-Gustafsson&theme=dark&hide_border=false)<br/>
-
-</div>
-
-<div align="center">
     
 # 🎬 **Project demos**
 
