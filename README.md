@@ -5,8 +5,7 @@
 </div>
 
 - 👨‍💻 Currently trying my patience and luck with:
-    - "Paddlingen"-website to handle booking & payment for a recurring yearly event, done together with https://github.com/matsnord94
-    - 
+    - "Paddlingen"-website to handle booking & payment for a recurring yearly event.
 - 🌱 I’m currently studying:
     - AI/ML Engineer track on Datacamp
     - Microsoft’s Azure Fundamentals certification (AZ-900)
