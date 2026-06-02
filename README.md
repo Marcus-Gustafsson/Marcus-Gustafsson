@@ -50,9 +50,10 @@
 
 <div align="center">
 
-### [Paddlingen](https://paddlingen.se)
+## [Paddlingen](https://paddlingen.se)
 
 </div>
+
 
 <p align="center">
   <a href="https://paddlingen.se">
@@ -79,7 +80,7 @@
 
 <div align="center">
 
-### [NFB-Training](https://github.com/Marcus-Gustafsson/NFB-Training)
+## [NFB-Training](https://github.com/Marcus-Gustafsson/NFB-Training)
 
 </div>
 <p align="center">
@@ -91,7 +92,7 @@
 </p>
 <div align="center">
     
-### [AutoSort](https://github.com/Marcus-Gustafsson/AutoSort)
+## [AutoSort](https://github.com/Marcus-Gustafsson/AutoSort)
 
 </div>
     
