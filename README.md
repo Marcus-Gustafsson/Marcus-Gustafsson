@@ -6,6 +6,7 @@
 
 - 👨‍💻 Currently trying my patience and luck with:
     - "Paddlingen"-website to handle booking & payment for a recurring yearly event, done together with https://github.com/matsnord94
+    - 
 - 🌱 I’m currently studying:
     - AI/ML Engineer track on Datacamp
     - Microsoft’s Azure Fundamentals certification (AZ-900)
@@ -15,8 +16,28 @@
 
 <div align="center">
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 💻 Tech Stack
+
+### Languages & Frontend
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+### Backend & Data
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### DevOps, Deployment & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6366F1?style=for-the-badge&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -25,6 +46,23 @@
 # 🎬 **Project demos**
 
 </div>
+
+
+<div align="center">
+
+### [Paddlingen](https://paddlingen.se)
+
+</div>
+
+<p align="center">
+  <a href="https://paddlingen.se">
+    <img src="assets/Paddlingen.gif" alt="Paddlingen website demo" width="900" height="350">
+  </a>
+  <br/>
+  <sub>Paddlingen is a Flask-based booking website for a recurring Swedish canoe event. 
+      The site handles event information, canoe booking, admin management, payment tracking, confirmation emails, previous-year media, and operational logging. 
+      It is built with Python, Flask, Jinja, HTML, CSS, JavaScript, PostgreSQL, Alembic, Gunicorn, and Docker, and is deployed on a Hetzner VPS through Coolify under the domain paddlingen.se.</sub>
+</p>
 
 <div align="center">
 
@@ -65,15 +103,3 @@
   <br/>
   <sub>Personal software/project to help me sort and store my downloaded files</sub>
 </p>
-
-
-<!-- 
-### [WH40K Mechanicus TUI Agent](https://github.com/Marcus-Gustafsson/mechanicus-agent)
-<p align="center">
-  <a href="https://github.com/Marcus-Gustafsson/mechanicus-agent">
-    <img src="assets/mechanicus_tui.gif" alt="Mechanicus TUI demo" width="800">
-  </a>
-  <br/>
-  <sub>LLM agent with Adeptus Mechanicus vibe.</sub>
-</p>
--->
