@@ -59,9 +59,8 @@
     <img src="assets/Paddlingen.gif" alt="Paddlingen website demo" width="900" height="350">
   </a>
   <br/>
-  <sub>Paddlingen is a Flask-based booking website for a recurring Swedish canoe event. 
-      The site handles event information, canoe booking, admin management, payment tracking, confirmation emails, previous-year media, and operational logging. 
-      It is built with Python, Flask, Jinja, HTML, CSS, JavaScript, PostgreSQL, Alembic, Gunicorn, and Docker, and is deployed on a Hetzner VPS through Coolify under the domain paddlingen.se.</sub>
+  <sub>Paddlingen is a Flask-based booking website for a recurring Swedish canoe event.
+      It is built with Python, Flask, Jinja, HTML, CSS, JavaScript, PostgreSQL/Supabase, Alembic, Gunicorn, and Docker. Deployed on a Hetzner VPS through Self-hosted Coolify under the domain paddlingen.se.</sub>
 </p>
 
 <div align="center">
