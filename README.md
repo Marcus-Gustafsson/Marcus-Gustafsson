@@ -7,8 +7,8 @@
 - 👨‍💻 Currently trying my patience and luck with:
     - "Paddlingen"-website to handle booking & payment for a recurring yearly event.
 - 🌱 I’m currently studying:
-    - AI/ML Engineer track on Datacamp
-    - Microsoft’s Azure Fundamentals certification (AZ-900)
+    - AI/ML Engineer track on Datacamp (paused)
+    - Microsoft’s Azure Fundamentals certification (AZ-900) (paused)
 - 🔭 Upcoming project ideas:
     - TBD
 
